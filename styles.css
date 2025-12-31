@@ -1,0 +1,19 @@
+body{
+    font-family: cursive;
+    background-color: #ffb6c1;
+    color: aquamarine;
+}
+h1{
+    font-size: 150px;
+    margin:0;
+}
+p{
+    font-style: italic;
+}
+h2{
+    color: blueviolet;
+    border-top: solid 1px #a0251a;
+}
+ol{
+    border-bottom:solid 1px #0000ff;
+}

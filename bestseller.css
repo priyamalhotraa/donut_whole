@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url('lightpeachtexture.png');
+}
+.both{
+    position: relative;
+    left: -60px;
+}
+#p{
+    position: relative;
+    left: 575px;
+    font-size: 30px;
+    top: -27px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ff005d;
+    font-weight: bolder;
+
+}
+.picone{
+    padding: 70px;
+    position: relative;
+    left: 130px;
+    
+}
+h1{
+    margin: 50px;
+    padding: 20px;
+    position: relative;
+    left: 610px;
+    font-family: cursive;
+    font-size: 50px;
+}
+.one{
+    position: relative;
+    left: 500px;
+    top: -280px;
+}
+.one h3{
+    font-size:25px;
+    margin: 10px;
+    font-style: italic;
+    font-weight: bold;
+}
+.one p{
+    margin: 30px;
+    font-size: 20px;
+    position: relative;
+    left: -15px;
+}
+a:link{
+    position: relative;
+    left: 15px;
+    text-decoration: none;
+    color: brown;
+    font-size: 20px;
+}
+a:hover{
+    color: #ff005d;
+}
+.picthree{
+    position: relative;
+    left: 200px;
+    top: -100px;
+}
+.three{
+    position: relative;
+    left: 500px;
+    top: -310px;
+}
+.three h3{
+    font-size:25px;
+    margin: 10px;
+    font-style: italic;
+    font-weight: bold;
+}
+.three p{
+    margin: 30px;
+    font-size: 20px;
+    position: relative;
+    left: -15px;
+}
+.bigthree{
+    position: relative;
+    top: -130px;
+}
+.picsix{
+    position: relative;
+    left: 200px;
+    top: -100px;
+}
+.six{
+    position: relative;
+    left: 500px;
+    top: -335px;
+}
+.six h3{
+    font-size:25px;
+    margin: 10px;
+    font-style: italic;
+    font-weight: bold;
+}
+.six p{
+    margin: 30px;
+    font-size: 20px;
+    position: relative;
+    left: -15px;
+}
+.bigsix{
+    position: relative;
+    top: -275px;
+}
+
+.piceight{
+    position: relative;
+    left: 200px;
+    top: -100px;
+}
+.eight{
+    position: relative;
+    left: 500px;
+    top: -335px;
+}
+.eight h3{
+    font-size:25px;
+    margin: 10px;
+    font-style: italic;
+    font-weight: bold;
+}
+.eight p{
+    margin: 30px;
+    font-size: 20px;
+    position: relative;
+    left: -15px;
+}
+.bigeight{
+    position: relative;
+    top: -435px;
+}
+
+.picten{
+    position: relative;
+    left: 200px;
+    top: -100px;
+}
+.ten{
+    position: relative;
+    left: 500px;
+    top: -335px;
+}
+.ten h3{
+    font-size:25px;
+    margin: 10px;
+    font-style: italic;
+    font-weight: bold;
+}
+.ten p{
+    margin: 30px;
+    font-size: 20px;
+    position: relative;
+    left: -15px;
+}
+.bigten{
+    position: relative;
+    top: -600px;
+}
+h3{
+    font-weight:bolder;
+    color: brown;
+}
+#new{
+    position: relative;
+    left: 600px;
+    top: 150px;
+}

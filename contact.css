@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url('lightpeachtexture.png');
+}
+img{
+    position: relative;
+    top: 60px;
+    left: 580px;
+}
+h1{
+    position: relative;
+    
+    left: 670px;
+    font-size: 45px;
+}
+.location{
+    position: relative;
+
+    left: 730px;
+    top: 40px;
+    font-size: 25px;
+    
+}
+.delivery{
+    position: relative;
+
+    left: 730px;
+    top: 40px;
+    font-size: 25px;
+}
+h2{
+    position: relative;
+    left: -50px;
+    color: brown;
+}
+h3{
+    position: relative;
+    left: -50px;
+    color: brown;
+}

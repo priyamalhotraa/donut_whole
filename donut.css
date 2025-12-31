@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.start{
+  
+    display: flex;
+    position: relative;
+    left: 50px;
+    top: 15px;
+}
+.start input{
+    width: 400px;
+    height: 28px;
+    padding: 11px;
+    border: 1px solid rgb(237, 115, 199);
+    font-size: 19px;
+}
+.start button{
+    width: 200px;
+    background-color: #f8a1dc;
+    color: #fff;
+    font-size: 22px;
+    border: none;
+}
+.seven{
+    position: relative;
+    left: -8px;
+    top: -149px;
+    font-size: 20px;
+}
+
+.three{
+    position: relative;
+    right: -320px;
+}
+.ten{
+    position: relative;
+    right: -850px;
+    top: -230px;
+    font-size: 20px;
+}
+.six{
+    position: relative;
+    left: -200px;
+    top: -125px;
+    font-size: 20px;
+}
+.eight{
+    position: relative;
+    left: 190px;
+    top:-173px ;
+    font-size: 20px;
+}
+.nine{
+    position: relative;
+    right: -600px;
+    top: -205px;
+    font-size: 20px;
+}
+.new{
+    font-family: "Brush Script MT";
+    font-weight: bold;
+    font-size: 65px;
+    position: relative;
+    right: -600px;
+    top: -90px;
+}
+body{
+    background: url('lightpeachtexture.png');
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+#logo{
+    display: block;
+}
+#container{
+    width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+}
+ul{
+    list-style: none;
+    color: #e76494;
+}
+a:link{
+    
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: #f606aa;
+}
+#pic{
+    display: block;
+    padding: 30px;
+    background: url('peachtexture.png');
+    margin: auto;
+}
+#whole-story h2{
+    font-family:Arial, Helvetica, sans-serif ;
+    color: #9a7109;
+    text-decoration: underline;
+    font-size: 33px;
+}
+#whole-story em{
+text-transform: capitalize;
+color: black;
+text-decoration: wavy;
+font-family:cursive;
+}
+#whole-story h3 strong{
+    font-style:italic;
+    font-size:30px;
+    color: #e76494;
+}
+#whole-story h3{
+   
+    position: relative;
+    right: -490px;
+}
+#whole-story h2{
+    position: relative;
+    right: -600px;
+}
+p.text{
+    font-family: "Avante Garde",AvanteGarde,"Century Gothic","AppleGothic",sans-serif;
+    font-size: 15px;
+    margin: 30px;
+    position:relative;
+    left:225px;
+}
+.container img{
+     position: relative;
+     right:-370px
+}
+#whole-story{
+    width: 500px;
+    float: left;
+}
+.second-content{
+    width: 500px;
+    float: right;
+    position: relative;
+   
+    bottom: -110px;
+}
+.second-content img{
+    position: relative;
+    left: -250px;
+    bottom: -0px;
+}
+.second-content h4{
+    position: relative;
+    left: -179px;
+    top: -68px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #e76494;
+    font-size: 25px;
+}
+.second-content p{
+    position: relative;
+    left: -179px;
+    top: -68px;
+}
+.text2{
+    position: relative;
+    left: 255px;
+    font-family:monospace;
+    text-decoration:none;
+}
+.widget1{
+    position: relative;
+    left: 300px;
+}
+.widget2{
+    position: relative;
+    left: 300px;
+}
+.widget1 img{
+    position: relative;
+    left: -51px;
+    bottom: -51px;
+}
+.widget2 img{
+    position: relative;
+    left: -51px;
+    bottom: -51px;
+}
+.widget1 h5{
+    font-size: large;
+}
+.widget2 h5{
+    font-size: large;
+}
+.image{
+    position: relative;
+    right: -400px;
+    bottom: -260px;
+}
+#last{
+    position: relative;
+    bottom: -320px;
+    background: url('redtexture.png');
+    color: white;
+    font-weight: bold;
+}
+.foot{
+    position: relative;
+    right: -450px;
+    top: -16px;
+}
+.copyright{
+    position: relative;
+    bottom: -10px;
+}

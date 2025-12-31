@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url('lightpeachtexture.png');
+}
+h1{
+    font-family: "Brush Script MT";
+    font-weight: bold;
+    font-size: 65px;
+    position: relative;
+    left: 575px;
+    top: -15px;
+    padding: 30px;
+}
+img{
+    position: relative;
+    height: 200px;
+    left: 670px;
+}
+p{
+    position: relative;
+    left: 580px;
+    top: -15px;
+    font-size: 23px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+}
+form{
+    position: relative;
+    left: 660px;
+    top: 0px;
+    font-weight: bold;
+}
+#name{
+    margin: 15px;
+    font-weight: bold;
+    font-size: 15px;
+}
+#email{
+    margin: 15px;
+    font-weight: bold;
+    font-size: 15px;   
+}
+#number{
+    margin: 15px;
+    font-weight: bold;
+    font-size: 15px;  
+}
+#address{
+    margin: 15px;
+    font-weight: bold;
+    font-size: 15px;  
+}
+#password{
+    margin: 15px;
+    font-weight: bold;
+    font-size: 15px;  
+}
+.submit{
+    position: relative;
+    left: 80px;
+    top: 40px;
+    
+}.submit input{
+    font-size: 30px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: rgb(239, 115, 161);
+    color: rgb(0, 0, 0);
+    
+}

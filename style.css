@@ -1,0 +1,16 @@
+body{
+    background:#4d2d06;
+    font-family: Georgia, Times, serif;
+    color:#fff;
+    text-align: center;
+    font-size: 50px;
+}
+#monkey{
+    background: #fff;
+    color:#4d2d06;
+    font-family: verdana,arial,sans-serif;
+}
+#donkey{
+    background:green;
+    font-family: monaco,monospace;
+}

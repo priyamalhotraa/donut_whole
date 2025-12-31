@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url('lightpeachtexture.png');
+}
+h1{
+    font-family: "Brush Script MT";
+    font-weight: bold;
+    font-size: 65px;
+    position: relative;
+    left: 560px;
+    padding: 30px;
+}
+img{
+    position: relative;
+    height: 200px;
+    left: 670px;
+}
+.name{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 70px ;
+    padding: 10px;
+    position:relative;
+    left: 570px;
+    
+
+}
+.password{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 70px ;
+    
+    position:relative;
+    left: 580px;
+    top: -95px;
+    
+}
+a{
+    position: relative;
+    left: 800px;
+    top: -170px;
+}
+.button{
+    position: relative;
+    left: 700px;
+    top: -150px;
+    margin: 50px;
+    
+    }
+    .button input{
+        font-size: 30px;
+        border-radius: 10px;
+        border-width: 5px;
+        border-color: rgb(239, 115, 161);
+        color: rgb(0, 0, 0);
+        
+    }
